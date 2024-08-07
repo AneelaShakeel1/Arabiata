@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "baseUrl": ".",
+        "jsx": "react-native",
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "noEmit": true,
+        "strict": true,
+        "paths": {
+            "~/*": ["./*"],
+            "@src/*": ["./*"],
+            "@shared/*": ["./app/shared/*"],
+            "@lib/*": ["./app/lib/*"],
+            "@assets/*": ["./app/assets/*"],
+            "@theme/*": ["./app/assets/styles/*"],
+            "@screens/*": ["./app/screens/*"],
+            "@navigation/*": ["./app/navigators/AppNavigator"]
+        },
+        "types": ["react", "react-native"],
+      },
+}

@@ -1,0 +1,13 @@
+{
+  "loggedInUser": {
+    "user": {
+      "id": 2225,
+      "name": "Osama Saeed",
+      "mobile": "97721175",
+      "email": "okhayat@gmail.com",
+      "login_type": "email",
+      "referral_code": "QhiYqWskuU",
+      "profile_image": "https://dev.arabiatakw.com/storage/app/public/images/profile/unknown.png"
+    }
+  }
+}

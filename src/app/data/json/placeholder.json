@@ -1,0 +1,15 @@
+{
+  "statuses": ["Pending", "Draft", "Completed"],
+
+  "images": [
+    "https://loremflickr.com/320/240",
+
+    "https://loremflickr.com/320/240",
+
+    "https://loremflickr.com/320/240",
+
+    "https://loremflickr.com/320/240",
+
+    "https://loremflickr.com/320/240"
+  ]
+}
